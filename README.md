@@ -85,13 +85,21 @@ streamlit run app/dashboard.py
 ```
 
 
-Dashboard Features
-Lead Scoring: Predict conversion probability for each lead
-Threat Risk Assessment: Score leads using threat alerts, industry risk, and region
-Actionable Recommendations: Dynamic logic to recommend actions like “Follow Up” or “Ignore”
-Interactive Visualizations: Histograms, bar charts, and scatter plots for insights
-Filtering: By deal stage, rep, industry, region, risk score, and recommendation
-CSV Export: Download filtered results directly from the dashboard
+## Dashboard Features
 
-
+- **Lead Scoring**: Predicts the conversion probability for each lead using an XGBoost model.
+- **Threat Risk Assessment**: Calculates a composite risk score based on threat alerts, industry-specific risk, and regional impact.
+- **Actionable Recommendations**: Provides next-step guidance such as "Follow Up", "Send Proposal", or "Ignore" based on lead characteristics and predicted performance.
+- **Interactive Visualizations**:
+  - Histograms of conversion scores
+  - Deal stage funnel charts (grouped by rep or industry)
+  - Scatter plots of threat alerts vs. conversion scores
+- **Advanced Filtering**:
+  - Deal stage
+  - Sales representative
+  - Industry
+  - Region
+  - Threat risk score threshold
+  - Recommendation type
+- **CSV Export**: Allows download of filtered lead lists directly from the dashboard.
 
