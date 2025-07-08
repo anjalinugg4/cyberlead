@@ -1,0 +1,301 @@
+company_name,industry,company_size,region,deal_stage,rep_assigned,last_touch_days,email_opens,meetings,deal_value,threat_alerts_detected,converted
+"Bennett, Howard and Brown",Finance,1757,EMEA,Proposal,Morgan,0,9,1,36078,5,0
+Lester-Howard,Education,1919,EMEA,Closed Won,Morgan,11,1,2,35265,2,1
+"Sharp, Yang and Massey",Education,1635,North America,Qualified,Riley,22,14,10,40247,3,0
+"Brooks, Sims and Brown",Finance,278,North America,Qualified,Morgan,12,16,5,26175,9,0
+"Olson, Hall and Delacruz",Technology,2612,APAC,Closed Won,Riley,3,6,10,33767,6,1
+Roy Ltd,Education,2701,EMEA,Proposal,Alex,45,1,9,96132,9,1
+Reynolds Inc,Education,4212,EMEA,Closed Lost,Jordan,1,5,8,81514,7,0
+Perry-Villarreal,Retail,4716,North America,Proposal,Morgan,56,13,8,43834,7,1
+Lyons LLC,Finance,3002,EMEA,Negotiation,Jordan,35,11,3,60040,10,1
+Simpson-Brown,Retail,1870,APAC,Proposal,Alex,56,5,0,41957,4,0
+"Case, Yang and Cunningham",Finance,1191,North America,Closed Won,Taylor,16,20,2,66525,3,1
+"Butler, Jackson and Tyler",Healthcare,1485,APAC,Prospect,Jordan,24,5,5,15034,8,1
+Roberts-Singh,Technology,1424,APAC,Closed Won,Riley,3,20,7,13712,7,1
+"Green, Davis and Horne",Education,4991,North America,Proposal,Morgan,23,11,2,54490,4,1
+Wolfe-Marshall,Finance,2921,APAC,Closed Won,Riley,50,7,1,18178,4,0
+Williams-Decker,Retail,75,EMEA,Proposal,Taylor,10,6,5,92840,9,0
+Torres-Cummings,Healthcare,1899,EMEA,Proposal,Jordan,5,0,1,39394,10,1
+Gutierrez PLC,Healthcare,4469,EMEA,Negotiation,Morgan,53,8,0,38238,10,1
+"Larson, Jackson and Schneider",Education,1419,APAC,Negotiation,Riley,38,18,1,80101,7,0
+Ashley-Day,Finance,4511,North America,Negotiation,Casey,29,16,5,8878,1,1
+Vasquez-Pruitt,Healthcare,1172,EMEA,Closed Won,Taylor,53,20,8,80348,5,1
+Carpenter Ltd,Education,2861,North America,Closed Lost,Morgan,25,17,0,34741,6,1
+Hanson-Stevens,Finance,2860,APAC,Prospect,Taylor,53,11,9,40359,4,0
+"Chandler, Scott and Peterson",Technology,4042,EMEA,Closed Lost,Morgan,2,2,0,99455,1,0
+Cooley-Alexander,Technology,1195,EMEA,Proposal,Jordan,42,13,10,13505,2,0
+"Fletcher, Allen and Matthews",Education,2257,APAC,Qualified,Jordan,18,7,10,72101,4,0
+"Kidd, Wilson and Crawford",Healthcare,4071,EMEA,Closed Lost,Casey,16,9,1,49313,5,0
+Rivera Group,Education,401,North America,Closed Lost,Jordan,13,2,6,75066,3,0
+King-Peters,Retail,4023,North America,Negotiation,Jordan,24,10,3,16718,3,0
+Preston Group,Finance,218,EMEA,Qualified,Alex,29,19,0,42026,3,1
+Mendoza Group,Healthcare,754,North America,Closed Won,Taylor,60,0,2,83813,6,1
+Peterson and Sons,Education,1423,APAC,Proposal,Alex,46,11,2,82256,9,0
+Gonzales PLC,Retail,3585,North America,Closed Lost,Casey,33,13,0,19932,3,0
+"Wagner, Phillips and Garcia",Finance,169,North America,Proposal,Jordan,33,10,1,72181,5,1
+Johnson-Rogers,Finance,337,APAC,Proposal,Riley,30,10,0,77949,6,1
+"Armstrong, Mitchell and Carter",Education,3937,EMEA,Negotiation,Taylor,9,7,9,37145,7,0
+"Yoder, Daugherty and Walter",Retail,1144,APAC,Closed Lost,Morgan,31,5,5,79956,3,0
+Riddle Ltd,Finance,1304,APAC,Prospect,Casey,27,1,4,26624,0,0
+Wilson Group,Technology,1638,North America,Closed Won,Riley,51,12,0,6675,3,1
+Gallagher-Gregory,Technology,551,EMEA,Prospect,Morgan,10,19,6,63060,0,0
+"Cox, Collier and Burton",Finance,2519,APAC,Negotiation,Morgan,58,11,7,11768,6,1
+French-Liu,Healthcare,2196,North America,Negotiation,Casey,15,8,2,34216,8,0
+Riley PLC,Healthcare,1705,APAC,Closed Lost,Alex,24,18,5,90938,4,0
+Cohen-Adams,Healthcare,378,APAC,Qualified,Riley,37,13,10,35208,7,0
+Scott Inc,Healthcare,4651,EMEA,Closed Won,Jordan,23,20,1,83873,8,1
+Carter and Sons,Technology,915,North America,Closed Won,Taylor,46,4,2,98305,10,0
+Weaver Ltd,Technology,1880,EMEA,Closed Lost,Jordan,49,1,3,39074,8,0
+Wong PLC,Retail,4839,North America,Negotiation,Riley,50,15,6,45951,8,0
+Yu Inc,Technology,4699,North America,Closed Won,Riley,47,13,10,46942,3,1
+Huff and Sons,Healthcare,3134,APAC,Closed Won,Riley,43,4,2,84409,6,1
+Foster-Estes,Retail,2907,North America,Negotiation,Alex,27,12,9,9524,6,1
+Thomas-Hart,Education,1047,North America,Qualified,Alex,20,6,3,17664,0,0
+Brewer and Sons,Education,2515,APAC,Closed Lost,Jordan,12,9,2,27809,8,0
+Carr-Fields,Technology,3529,EMEA,Proposal,Morgan,3,14,4,58235,3,0
+Martin PLC,Healthcare,2723,North America,Negotiation,Riley,44,18,9,7907,0,0
+Henderson LLC,Healthcare,1294,EMEA,Qualified,Jordan,56,3,8,93204,6,1
+"Harris, Wilkins and Duke",Healthcare,3943,North America,Qualified,Morgan,20,16,8,9383,9,1
+Miller-Contreras,Healthcare,4282,APAC,Prospect,Alex,42,8,10,97800,5,0
+Moody-Hernandez,Technology,3710,APAC,Closed Lost,Casey,41,9,5,92252,3,0
+"Reed, Jones and Spears",Healthcare,2127,APAC,Closed Won,Riley,16,13,6,76822,6,0
+"Smith, Foster and Horton",Healthcare,2964,EMEA,Proposal,Jordan,31,8,7,82247,6,0
+Davis-Rodriguez,Finance,3116,APAC,Closed Lost,Jordan,46,15,4,35453,0,0
+Bass-Hansen,Finance,1594,EMEA,Qualified,Riley,35,19,3,40183,10,0
+Johnson-Blair,Technology,1236,North America,Proposal,Alex,32,17,5,32935,2,0
+"Johnson, Lowe and Jackson",Technology,735,North America,Closed Won,Riley,18,4,8,55094,0,0
+"Brooks, Perez and Wheeler",Education,568,EMEA,Closed Lost,Alex,20,2,7,36542,1,0
+Terry Inc,Retail,3401,APAC,Negotiation,Casey,38,9,1,71218,4,0
+"Tran, Smith and Griffin",Healthcare,4622,APAC,Negotiation,Casey,11,13,8,35697,1,1
+Cooper-Baker,Technology,821,North America,Prospect,Jordan,15,18,9,87184,8,0
+Watts Inc,Technology,1540,APAC,Qualified,Jordan,36,19,3,18908,2,1
+"Williams, Rodriguez and Mitchell",Education,3860,North America,Qualified,Morgan,9,3,7,28288,4,0
+"Buck, Molina and Alexander",Technology,3890,North America,Closed Lost,Riley,14,17,4,80145,5,0
+Williams LLC,Finance,405,North America,Proposal,Morgan,6,9,9,84360,0,0
+"Harris, Schwartz and Henson",Retail,4471,APAC,Closed Lost,Morgan,17,11,2,59908,3,0
+"Peterson, Ford and Conley",Healthcare,1481,EMEA,Prospect,Casey,29,11,7,9052,3,0
+"Hammond, Pearson and Luna",Finance,3124,EMEA,Negotiation,Riley,37,12,2,99839,1,0
+Reynolds-Mcmillan,Technology,1996,North America,Proposal,Taylor,8,5,4,40724,10,0
+"Robertson, Mcguire and Davis",Retail,3325,APAC,Negotiation,Taylor,20,15,3,81350,10,0
+"Joyce, Reed and Norman",Finance,3811,APAC,Qualified,Riley,12,11,1,23876,1,0
+Carr Group,Technology,563,EMEA,Negotiation,Casey,55,2,1,36659,7,0
+Bryant-Vargas,Education,1604,EMEA,Qualified,Jordan,9,6,6,83241,10,0
+Chang-Williams,Technology,2565,APAC,Closed Lost,Casey,31,6,3,65344,4,0
+Pineda Group,Healthcare,82,EMEA,Prospect,Morgan,35,17,8,26358,9,0
+"Brown, Wallace and Hughes",Healthcare,1360,EMEA,Prospect,Morgan,24,1,5,70006,3,0
+"Howell, Baker and Crawford",Retail,526,North America,Proposal,Taylor,43,11,6,33109,5,0
+"Ray, Wilson and Le",Healthcare,2789,EMEA,Prospect,Casey,18,11,7,73945,5,0
+Flores-Steele,Retail,1740,North America,Closed Lost,Jordan,51,16,5,79674,0,0
+"Nash, Morrow and Woods",Finance,373,North America,Prospect,Riley,38,2,7,39037,2,0
+Baldwin-Sanchez,Technology,4332,APAC,Prospect,Riley,42,10,0,30545,10,0
+"Smith, Dalton and Webb",Retail,4500,North America,Prospect,Alex,31,3,5,87729,8,0
+"Coleman, Bush and Santiago",Finance,1657,North America,Prospect,Alex,26,5,4,82632,7,0
+Joseph Ltd,Retail,1112,North America,Qualified,Taylor,4,4,5,76728,3,0
+"Barker, Lewis and Nguyen",Retail,3487,EMEA,Closed Lost,Morgan,13,4,3,60698,6,0
+"Schwartz, Phillips and Skinner",Education,969,North America,Closed Lost,Alex,13,3,6,60623,7,0
+Harris-Lawrence,Education,2972,North America,Negotiation,Jordan,35,9,8,53165,4,1
+"Jones, Wong and Cummings",Retail,384,North America,Prospect,Alex,3,16,7,82158,5,0
+Lee and Sons,Retail,2941,EMEA,Prospect,Riley,16,0,0,60619,8,0
+"Hendricks, Barrett and Huffman",Retail,531,APAC,Qualified,Taylor,50,12,1,76578,10,1
+Lane PLC,Education,72,EMEA,Qualified,Morgan,26,0,6,24319,6,0
+Jones PLC,Retail,348,APAC,Proposal,Riley,3,18,6,26170,9,1
+Sharp-Archer,Retail,608,EMEA,Closed Won,Jordan,9,10,3,54451,5,0
+Garner Inc,Technology,1406,North America,Prospect,Morgan,59,16,2,26345,4,0
+Mccarthy PLC,Retail,3873,APAC,Closed Lost,Jordan,33,0,6,87703,0,0
+Harrison and Sons,Finance,1194,EMEA,Negotiation,Alex,58,20,0,24469,7,1
+"Chapman, Jackson and Guerrero",Retail,2331,North America,Proposal,Casey,26,17,7,92002,1,1
+"Chambers, Fields and Aguilar",Healthcare,276,APAC,Negotiation,Riley,30,1,2,22609,4,0
+Parker-Jordan,Technology,2023,North America,Prospect,Riley,50,10,9,16612,4,0
+"Adkins, Craig and Walsh",Finance,2897,EMEA,Closed Won,Riley,11,5,6,22475,2,0
+Huber-Stone,Education,736,North America,Closed Lost,Riley,16,20,2,18926,1,1
+"Guerra, Reese and Nguyen",Healthcare,4016,EMEA,Closed Won,Taylor,13,18,10,16596,9,1
+"Cox, Bailey and Soto",Retail,3812,North America,Negotiation,Alex,26,5,0,95137,9,1
+"Smith, Aguirre and Lee",Finance,75,EMEA,Closed Lost,Riley,12,2,7,58876,2,0
+Perry PLC,Finance,4894,North America,Qualified,Alex,9,10,8,87617,3,1
+Richardson-Nguyen,Education,2046,APAC,Qualified,Riley,29,9,0,76184,4,0
+Church-Clark,Technology,3492,EMEA,Closed Lost,Morgan,59,20,3,94036,1,0
+Hayes-Singh,Technology,2004,North America,Closed Won,Riley,0,7,1,52721,5,1
+Stewart PLC,Healthcare,1333,North America,Qualified,Jordan,2,18,0,22572,8,0
+Mcconnell Ltd,Education,2571,APAC,Closed Lost,Jordan,52,5,1,5689,0,0
+"Ortega, Cross and Morrow",Finance,4384,APAC,Negotiation,Morgan,5,17,6,58637,2,1
+"Martinez, Harris and Freeman",Healthcare,2056,APAC,Closed Lost,Taylor,38,16,2,91166,9,1
+Higgins and Sons,Healthcare,31,APAC,Closed Lost,Alex,7,9,4,93645,6,1
+"Thomas, Brown and Williams",Healthcare,1030,APAC,Negotiation,Taylor,34,6,1,47612,2,1
+"Gross, White and Jones",Healthcare,2330,APAC,Proposal,Casey,15,11,1,91263,10,0
+Clay Ltd,Healthcare,117,North America,Proposal,Taylor,51,3,2,14187,4,1
+Gregory-Mccann,Technology,2695,North America,Closed Lost,Casey,54,12,7,49992,5,0
+"Taylor, Ramirez and Roberts",Education,1384,EMEA,Closed Won,Jordan,0,7,9,7383,6,1
+Dawson Inc,Education,4825,APAC,Closed Lost,Casey,44,8,2,74170,5,0
+Galloway Group,Retail,3729,EMEA,Negotiation,Jordan,6,7,2,36639,1,1
+"Juarez, Williams and Hansen",Finance,3294,North America,Prospect,Casey,5,2,8,39915,9,0
+Davis-Young,Technology,3860,APAC,Proposal,Jordan,26,12,4,51954,0,0
+Davis Ltd,Finance,3414,EMEA,Qualified,Casey,17,5,10,63098,1,0
+Harvey PLC,Healthcare,3358,APAC,Negotiation,Alex,56,3,8,6660,10,0
+"Snyder, Peters and Larsen",Education,280,North America,Closed Lost,Casey,11,11,8,80639,3,0
+Ellis-Thomas,Finance,856,EMEA,Closed Lost,Morgan,13,11,4,18789,1,0
+"Ward, Chavez and Graham",Finance,2167,APAC,Prospect,Taylor,30,16,0,73192,10,0
+Sampson Inc,Retail,3491,APAC,Closed Won,Jordan,18,6,8,9600,4,1
+Cervantes-Miles,Healthcare,2654,EMEA,Qualified,Riley,1,11,7,15189,6,0
+"Church, Robbins and Lee",Education,4801,APAC,Negotiation,Alex,33,17,7,29057,7,0
+Rios PLC,Healthcare,3882,EMEA,Closed Won,Morgan,27,20,10,97537,2,1
+Frye-Reed,Healthcare,2708,APAC,Closed Won,Riley,36,14,9,87851,4,1
+Miller Ltd,Education,1127,North America,Closed Won,Taylor,28,11,2,93801,0,1
+"Yu, Frederick and Jackson",Technology,1185,North America,Closed Won,Morgan,34,9,5,46108,0,1
+"Luna, Peterson and Whitehead",Retail,2267,EMEA,Prospect,Jordan,52,8,7,21524,3,0
+Jones-Mendez,Healthcare,4501,North America,Proposal,Morgan,48,18,8,59570,6,0
+"Hudson, Allen and Kelly",Retail,2298,APAC,Closed Lost,Taylor,44,2,8,71896,1,0
+Briggs and Sons,Finance,3972,North America,Prospect,Jordan,27,17,8,90108,6,1
+"Murphy, Oneill and Hampton",Finance,4552,APAC,Prospect,Morgan,4,1,7,8802,4,1
+Wolfe Ltd,Retail,2660,North America,Negotiation,Casey,50,6,5,20739,9,1
+Little-Peterson,Education,364,North America,Prospect,Alex,7,2,10,77256,5,1
+"Green, Lewis and Stevens",Retail,4396,APAC,Negotiation,Casey,47,14,2,76337,3,1
+Williams-Simmons,Education,1237,EMEA,Closed Won,Riley,60,15,10,62690,3,1
+Tucker Ltd,Finance,4624,EMEA,Closed Won,Riley,55,4,10,76414,8,0
+"Meyer, Davis and Christian",Retail,2984,EMEA,Closed Lost,Taylor,5,4,5,90559,2,0
+Russell-Hicks,Finance,1537,APAC,Prospect,Riley,8,6,8,8982,6,0
+Conner-Walker,Education,3998,North America,Closed Lost,Alex,31,9,9,55023,2,0
+"Holloway, Brown and Lopez",Retail,2546,North America,Closed Won,Riley,36,8,9,90663,3,0
+Bennett-Lawrence,Retail,4093,North America,Closed Won,Riley,26,8,0,96223,2,1
+Thomas Inc,Education,2041,North America,Closed Won,Jordan,34,0,8,60304,0,1
+"Robinson, King and Miles",Education,2147,EMEA,Closed Lost,Casey,49,18,7,54503,8,0
+"Green, Clay and Johnson",Education,3009,APAC,Closed Won,Casey,42,12,2,35024,9,1
+"Brown, Thomas and Strickland",Education,738,APAC,Qualified,Riley,34,20,4,36599,5,0
+Erickson-Baker,Finance,942,North America,Qualified,Casey,22,2,5,90209,3,0
+Simpson Inc,Healthcare,967,EMEA,Closed Lost,Riley,7,18,0,96318,0,0
+Stanton-Summers,Retail,2605,North America,Qualified,Jordan,5,2,2,28365,2,1
+"Henry, Sanders and Cunningham",Healthcare,4488,APAC,Prospect,Morgan,46,17,8,67938,5,0
+"Mcintosh, Hatfield and Estrada",Healthcare,2949,EMEA,Closed Won,Riley,44,8,0,80653,2,1
+Brown LLC,Retail,3409,EMEA,Closed Lost,Casey,53,17,3,26829,10,0
+Torres Ltd,Finance,784,EMEA,Negotiation,Jordan,17,19,7,78582,10,0
+Davenport-Brown,Technology,2513,APAC,Proposal,Riley,47,19,2,32001,1,0
+Robbins PLC,Healthcare,3744,EMEA,Negotiation,Riley,35,18,9,54178,3,1
+Ingram Group,Retail,3794,APAC,Closed Lost,Jordan,56,11,9,41337,10,1
+"Jackson, Le and Butler",Retail,1072,APAC,Closed Won,Morgan,54,6,1,96027,5,1
+Davis-Combs,Retail,3192,North America,Qualified,Alex,13,11,8,81273,5,0
+"Jones, Fisher and Bridges",Technology,3326,APAC,Closed Lost,Jordan,9,14,4,12626,7,1
+"Oliver, Ayala and Little",Education,1374,APAC,Prospect,Alex,60,0,2,91449,8,0
+"Reed, Rogers and Guerrero",Technology,3849,North America,Closed Lost,Taylor,15,5,0,86326,0,0
+Riggs Group,Healthcare,944,EMEA,Qualified,Casey,33,19,1,15758,1,1
+Delgado PLC,Retail,4045,EMEA,Closed Won,Taylor,57,2,4,34761,9,1
+"Williams, Duarte and Peterson",Retail,4391,North America,Qualified,Riley,28,11,1,58796,5,0
+Juarez LLC,Healthcare,895,North America,Qualified,Alex,11,1,1,10088,4,0
+"Williams, Sanchez and Harris",Retail,2791,EMEA,Prospect,Casey,56,14,7,52053,5,0
+"Sawyer, Miller and Parker",Healthcare,3102,EMEA,Qualified,Taylor,38,2,1,71073,9,1
+Harris-Lawson,Healthcare,1537,APAC,Proposal,Morgan,22,17,7,56615,5,1
+"Hardy, Jones and Taylor",Technology,4439,APAC,Closed Won,Casey,16,9,7,29312,2,0
+Flores and Sons,Technology,4482,EMEA,Qualified,Riley,43,14,5,8584,9,0
+Cannon-Morrison,Technology,2605,North America,Prospect,Taylor,59,8,9,64637,1,0
+"Garcia, Harrington and Hester",Technology,1841,APAC,Prospect,Alex,37,14,5,52298,1,0
+"Wilson, Nguyen and Cruz",Education,3532,North America,Negotiation,Morgan,45,10,7,34446,4,0
+Brown Inc,Technology,2705,North America,Closed Lost,Alex,59,18,6,86908,4,1
+"Byrd, Murray and Gomez",Technology,4535,North America,Closed Lost,Alex,47,6,3,93685,2,0
+"Thomas, Walters and Davis",Finance,2382,North America,Closed Won,Morgan,43,17,4,23208,0,0
+Atkins-Williamson,Finance,3003,APAC,Closed Lost,Alex,12,18,5,31681,6,0
+Booth-Smith,Education,1359,North America,Prospect,Alex,25,11,2,22860,5,0
+Williams-Oliver,Healthcare,734,EMEA,Prospect,Jordan,33,0,1,54656,3,0
+Nichols LLC,Finance,3486,EMEA,Proposal,Taylor,34,4,4,43150,8,0
+"Buchanan, Moore and Stanley",Technology,4869,North America,Negotiation,Casey,33,14,2,72907,4,0
+"Fox, Perkins and Lowe",Technology,1216,APAC,Closed Won,Taylor,2,17,7,45807,8,1
+Nelson and Sons,Healthcare,275,APAC,Qualified,Alex,12,8,3,36063,0,1
+Heath-Martin,Education,1032,APAC,Prospect,Riley,27,19,6,48677,5,0
+Herrera-Russo,Finance,1982,APAC,Qualified,Morgan,41,18,1,32415,3,1
+Mcguire-Cole,Healthcare,2914,APAC,Proposal,Morgan,58,2,10,91790,0,1
+Hammond-Valdez,Finance,213,EMEA,Closed Won,Alex,52,20,6,7543,10,1
+King LLC,Finance,4725,North America,Closed Won,Jordan,6,1,9,8209,10,0
+Fischer-Morales,Healthcare,4896,North America,Prospect,Morgan,53,4,2,79022,1,0
+Young-Wolfe,Finance,4733,North America,Closed Won,Riley,40,7,8,91245,6,0
+"Jones, Miller and Jones",Finance,988,APAC,Prospect,Riley,37,5,7,90087,3,1
+"Lewis, Lucas and Mckinney",Retail,2714,EMEA,Qualified,Jordan,5,3,10,87259,5,1
+Stewart PLC,Technology,455,North America,Closed Lost,Casey,4,5,8,38754,10,0
+Jackson-Salazar,Education,1596,APAC,Proposal,Morgan,51,6,3,71565,10,1
+Harris-Howard,Education,4413,North America,Closed Lost,Morgan,34,7,5,49090,5,0
+Jackson-Jimenez,Finance,2914,North America,Proposal,Morgan,3,2,6,6661,0,0
+"Singleton, Davies and Adams",Education,1665,North America,Proposal,Riley,10,2,6,25318,10,0
+"Dunn, Murphy and Owens",Finance,3927,North America,Qualified,Morgan,54,11,5,9263,0,1
+"Pena, Flores and Mcbride",Retail,3938,North America,Prospect,Alex,48,11,9,27751,5,0
+"Johnston, Harrison and Roberson",Healthcare,2528,APAC,Closed Lost,Casey,47,17,0,36187,7,1
+"Wood, Porter and Simpson",Technology,1149,EMEA,Closed Lost,Morgan,8,5,4,56981,4,0
+Martinez-Walker,Education,3648,North America,Proposal,Jordan,47,8,3,59854,5,0
+Gibson and Sons,Technology,2208,North America,Proposal,Taylor,8,18,9,24495,9,0
+Osborne-Lowery,Retail,3367,EMEA,Closed Won,Jordan,16,20,1,58662,1,1
+Bass LLC,Technology,1902,North America,Proposal,Alex,32,13,9,98972,5,1
+Mills LLC,Finance,637,EMEA,Closed Won,Riley,48,0,9,41535,4,1
+Green-Lee,Healthcare,3060,EMEA,Prospect,Morgan,14,15,4,83529,7,1
+Carlson-Hunter,Technology,4002,APAC,Qualified,Taylor,27,20,10,58178,8,0
+Miller-Torres,Healthcare,3543,APAC,Closed Won,Riley,55,7,7,56830,10,1
+Perez Group,Education,4995,APAC,Qualified,Morgan,23,6,4,91186,8,0
+Rodriguez Group,Retail,1824,North America,Closed Won,Riley,33,2,10,95340,2,0
+Peck-Kerr,Education,1114,APAC,Closed Won,Jordan,55,13,3,26496,2,1
+Frey-Walsh,Finance,2342,North America,Closed Won,Taylor,35,19,9,51371,1,0
+"Smith, Hughes and Fernandez",Retail,4997,APAC,Closed Won,Taylor,57,13,0,29290,9,0
+"Shaw, Bowers and Williams",Retail,1473,EMEA,Closed Won,Jordan,51,13,10,14075,9,1
+Ramirez PLC,Finance,3006,APAC,Closed Won,Morgan,21,8,4,21220,3,1
+"Howard, Brown and Davis",Healthcare,64,APAC,Negotiation,Casey,16,6,2,60834,10,1
+Brewer-Taylor,Finance,4384,North America,Negotiation,Morgan,8,7,9,84150,6,1
+"Burke, Duarte and Clark",Technology,4653,APAC,Negotiation,Riley,57,4,4,88260,1,1
+Osborn Ltd,Education,3934,EMEA,Closed Won,Riley,17,17,8,55553,10,1
+Montgomery Group,Education,3517,EMEA,Proposal,Taylor,31,20,9,34297,6,1
+Carroll-Anderson,Retail,4075,North America,Closed Lost,Taylor,22,12,1,86016,10,1
+Williams-Hendrix,Healthcare,49,North America,Qualified,Riley,39,13,3,42306,1,0
+George Group,Education,1896,North America,Closed Won,Riley,58,12,8,89119,8,1
+Keith-Wolf,Healthcare,2910,North America,Closed Won,Taylor,55,3,3,93980,7,1
+"Mcclain, Garcia and Harris",Technology,1712,EMEA,Qualified,Morgan,25,9,7,71394,4,0
+Campbell Group,Technology,1575,APAC,Closed Won,Casey,50,11,3,83868,4,1
+Horton Group,Healthcare,1572,North America,Closed Won,Casey,9,0,0,43434,10,1
+Olson Ltd,Retail,4311,EMEA,Qualified,Jordan,22,3,1,74102,3,0
+Smith Inc,Healthcare,3167,EMEA,Closed Lost,Casey,10,19,10,82210,2,0
+Nelson PLC,Education,576,APAC,Closed Won,Riley,31,8,6,96094,2,1
+Smith Inc,Finance,258,North America,Prospect,Casey,44,5,4,27879,0,0
+Hoffman-Johnson,Technology,3978,EMEA,Closed Won,Jordan,12,15,6,82658,10,1
+"Allen, Lopez and Mcmillan",Finance,2278,EMEA,Proposal,Taylor,49,19,10,17028,0,0
+Johnson-Morales,Retail,329,EMEA,Negotiation,Jordan,2,11,0,80035,8,1
+Evans-Cook,Education,2460,EMEA,Proposal,Morgan,37,4,0,9041,10,1
+Davis-Richards,Education,1474,EMEA,Closed Lost,Jordan,9,8,6,86150,5,0
+"Kaiser, Williams and Hancock",Healthcare,824,North America,Closed Lost,Riley,16,8,5,90568,5,0
+"Nunez, Calhoun and Wright",Education,4473,APAC,Closed Won,Morgan,53,19,6,97692,0,1
+"Kramer, Reilly and Jones",Technology,2274,EMEA,Closed Lost,Casey,0,2,7,12030,5,0
+"Hogan, Sutton and Shaw",Healthcare,578,North America,Prospect,Jordan,43,7,1,28802,6,0
+Petty-Johnson,Retail,2263,EMEA,Closed Lost,Casey,30,20,6,85213,2,1
+"Bryant, Gibbs and Thomas",Healthcare,4396,EMEA,Closed Won,Casey,17,14,2,26053,10,1
+Moore-Tucker,Education,2891,North America,Negotiation,Jordan,52,10,9,99890,4,0
+Heath-Turner,Retail,3294,EMEA,Prospect,Casey,54,19,10,78195,10,1
+Morrison Group,Finance,146,APAC,Negotiation,Taylor,33,18,0,11474,8,1
+Johns Ltd,Healthcare,3619,APAC,Negotiation,Riley,20,7,8,73470,4,1
+"Mitchell, Henry and Keller",Finance,4420,APAC,Negotiation,Jordan,60,18,6,36077,9,1
+Washington-Lee,Retail,899,APAC,Qualified,Riley,46,18,10,64727,9,0
+"Dunn, Brown and Wheeler",Finance,1060,North America,Prospect,Jordan,35,18,5,56047,4,0
+Shaffer-Bennett,Education,718,APAC,Closed Won,Jordan,33,4,6,26803,3,0
+Moore-Coleman,Education,2091,EMEA,Proposal,Riley,24,5,7,27710,3,1
+"Thompson, Johnson and Fischer",Technology,1339,EMEA,Prospect,Taylor,56,9,9,66745,6,0
+"Guzman, Barry and Hernandez",Healthcare,1024,APAC,Closed Lost,Jordan,36,8,3,70709,6,0
+"Edwards, Bell and Wells",Retail,4341,APAC,Proposal,Alex,45,13,8,47021,2,1
+"Olsen, Allen and Thomas",Technology,657,North America,Proposal,Taylor,25,15,3,53322,2,0
+Edwards-Rodriguez,Healthcare,4362,APAC,Closed Won,Riley,37,1,0,48872,1,0
+"Duke, Hodges and Stephens",Finance,3131,North America,Proposal,Morgan,44,16,4,29281,9,1
+Morales-Swanson,Education,2196,APAC,Prospect,Riley,24,18,3,52856,0,0
+Greene PLC,Finance,874,APAC,Closed Lost,Jordan,48,14,4,89746,4,0
+Perry-Jones,Healthcare,1875,EMEA,Negotiation,Taylor,52,7,10,23871,10,0
+"Bell, Elliott and Poole",Retail,232,APAC,Negotiation,Jordan,10,0,3,54187,9,1
+Lee Ltd,Education,2974,North America,Qualified,Riley,26,8,9,26412,7,0
+Horton and Sons,Retail,1739,EMEA,Prospect,Casey,17,9,10,62396,8,0
+Stewart and Sons,Education,4251,APAC,Qualified,Casey,39,13,2,72311,7,0
+"Ramos, Scott and Edwards",Technology,4167,APAC,Closed Won,Riley,51,15,0,79280,2,0
+Brooks LLC,Finance,1831,North America,Closed Lost,Alex,37,2,0,65966,9,0
+Wagner-Murray,Retail,4814,APAC,Closed Won,Jordan,28,14,8,55836,2,1
+Martinez and Sons,Retail,1114,North America,Closed Lost,Morgan,39,14,7,99781,6,1
+"Hicks, Swanson and Taylor",Finance,3643,EMEA,Closed Lost,Casey,38,11,6,12254,8,0
+Bailey-Gray,Healthcare,2546,EMEA,Prospect,Morgan,10,5,5,47690,3,0
+Strickland-Townsend,Technology,2879,APAC,Qualified,Jordan,41,12,6,14835,10,1
+"Smith, Rodgers and Smith",Education,1048,EMEA,Closed Lost,Taylor,56,5,2,91023,2,0
+"Ingram, Hunt and Garrison",Education,1572,APAC,Negotiation,Jordan,11,17,3,44742,2,1
+Schaefer-Jones,Finance,1933,EMEA,Prospect,Morgan,26,9,0,22114,1,0
+Bernard Inc,Healthcare,3805,EMEA,Qualified,Riley,32,6,10,39296,7,0
+Sheppard LLC,Healthcare,3986,APAC,Qualified,Jordan,2,13,7,10514,4,0
+White Ltd,Education,4963,North America,Closed Lost,Morgan,23,13,7,44678,3,0
+"Schmidt, Weiss and Bush",Education,2545,North America,Negotiation,Casey,52,8,0,13345,2,1
+"Garcia, Donovan and Jackson",Finance,4571,APAC,Qualified,Morgan,50,8,9,12455,9,1
+Riddle-Warren,Healthcare,216,North America,Proposal,Taylor,49,17,7,21859,4,0
+"Jones, Mccarthy and Schmitt",Finance,4273,APAC,Closed Won,Riley,6,17,3,68681,6,0
+Peterson-Proctor,Finance,1331,APAC,Proposal,Alex,50,14,2,87116,8,1
+Hill Ltd,Finance,1222,APAC,Proposal,Casey,21,16,4,24330,3,1
+Cordova Ltd,Healthcare,1243,APAC,Negotiation,Riley,59,7,2,98215,2,1
