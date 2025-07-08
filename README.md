@@ -50,11 +50,12 @@ cyberlead/
 
 ## Setup Instructions
 
-### 1. Clone the Repository
+## 1.Clone the Repository
 
 ```bash
 git clone https://github.com/anjalinugg4/cyberlead.git
 cd cyberlead
+```
 
 ### 2. Create Virtual Environment
 python3 -m venv venv
