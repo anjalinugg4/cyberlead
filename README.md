@@ -58,21 +58,31 @@ cd cyberlead
 ```
 
 ### 2. Create Virtual Environment
+```
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+```
 
 ### 3. Add Environment Variables
+```
 HF_TOKEN=your_huggingface_token_here
+```
 
 ### 4. Generate Synethetic Lead Data
+```
 python scripts/generate_data.py
+```
 
 ### 5. Train the Model
+```
 python scripts/training.py
+```
 
 ### 6. Launch the Dashboard
+```
 streamlit run app/dashboard.py
+```
 
 
 Dashboard Features
